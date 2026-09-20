@@ -11,9 +11,6 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 
 [Jeremy's MEGA Lab](https://www.youtube.com/watch?v=2p7-MluKAgE&list=PLeKkafR2n05G-C6sd19ZMKq7et__aDR1S) encompasses everything you will learn in his CCNA course
 
-
-To bulk download these course notes, use ```git clone https://github.com/psaumur/CCNA_Course_Notes.git```
-
 For browser based conversion of these .md format files, to PDF format, I recommend the online tool [Dillinger.io](https://dillinger.io/)
 For local conversion of these .md format files, to other friendly formats, I recommend the open source [Calibre](https://calibre-ebook.com/) ** Allows Bulk processing to mobile / iPad **
 
