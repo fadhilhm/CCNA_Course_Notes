@@ -21,4 +21,4 @@ For local conversion of these .md format files, to other friendly formats, I rec
 
 # Course Day Chapter Notes:
 
-- Day 1.  [Networking Devices](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Network_Devices.md)](https://github.com/fadhilhm/CCNA_Course_Notes/blob/main/ITN/Day1_Network_Devices.md
+- Day 1.  [Networking Devices](https://github.com/fadhilhm/CCNA_Course_Notes/blob/main/ITN/Day1_Network_Devices.md)
