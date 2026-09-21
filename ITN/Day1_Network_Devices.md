@@ -19,7 +19,7 @@ A client is a device that accesses a service made available by a server.
 A server is a device that provides functions or services for clients.
 
 ### # Example of Server and Clients
-![Example](assets/endhost.png)
+![Endhost Example](assets/endhost.png)
 
 PC1 is the Client and PC2 is the Server.
 
@@ -29,7 +29,7 @@ PC1 is the Client and PC2 is the Server.
 2. provide connectivity to hosts within the same LAN
 3. do not provide connectivity between LANs or over the internet
 
-![Example](assets/switch.png)
+![Switch Example](assets/switch.png)
 
 ### 4. Router
 
@@ -37,7 +37,7 @@ PC1 is the Client and PC2 is the Server.
 2. are used to provide connectivity between LANs.
 3. are therefore used to send data over the Internet.
 
-![Example](assets/router.png)
+![Router Example](assets/router.png)
 
 ### 5. Firewall
 
@@ -48,4 +48,4 @@ PC1 is the Client and PC2 is the Server.
 #### # Network firewalls? are hardware devices that filter traffic between networks.
 #### # Host-based firewalls? are software app that filter traffic entering and exiting host machine (e.g. PC).
 
-![Example](assets/firewall.png)
+![Firewall Example](assets/firewall.png)
