@@ -1,8 +1,12 @@
-# Network Devices
+[Return to README](../README.md)
+
+# 1. NETWORK DEVICES
 
 [Source: Day 1 | Network Devices](https://youtu.be/H8W9oMNSuwo?si=5KIqb554raFcF27N)
 
 > Quiz starts at 22:27
+
+---
 
 ## What is a Network?
 
