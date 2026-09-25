@@ -21,3 +21,4 @@ For local conversion of these .md format files, to other friendly formats, I rec
 - Day 1. [Networking Devices](ITN/Day1_Network_Devices.md)
 - Day 2. [Interfaces and Cables](ITN/Day2_Interfaces_and_Cables.md)
 - Day 3. [OSI Model & TCP/IP](ITN/Day3_OSI_Model_&_TCPIP.md)
+- Day 4. [Intro to CLI](ITN/Day4_Intro_to_CLI.md)
