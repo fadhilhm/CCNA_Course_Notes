@@ -129,24 +129,24 @@ OR
 
 To SAVE the Running configuration file, you can:
 
->`Router# write`
-`Building configuration...`
+>`Router# write` <br>
+`Building configuration...` <br>
 `[OK]`
 
->`Router# write memory`
-`Building configuration...`
+>`Router# write memory` <br>
+`Building configuration...` <br>
 `[OK]`
 
->`Router# copy running-config startup-config`
-`Destination filename [startup-config]?`
-`Building configuration...`
+>`Router# copy running-config startup-config` <br>
+`Destination filename [startup-config]?` <br>
+`Building configuration...` <br>
 `[OK]`
 
 ---
 
 To encrypt passwords:
 
-> `Router# conf t`
+> `Router# conf t` <br>
 `Router(config)# service password-encryption`
 
 This makes all current passwords *encrypted*
