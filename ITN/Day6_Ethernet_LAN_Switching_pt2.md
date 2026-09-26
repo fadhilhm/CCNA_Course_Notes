@@ -6,7 +6,7 @@ An ETHERNET FRAME looks like:
 
 Ethernet Header --- DATA (Packet) --- Ethernet Trailer
 
-![image](https://github.com/psaumur/CCNA/assets/106411237/27c1877f-57d7-44ea-8c64-b0ec2b308ad0)
+![alt text](image.png)
 
 
 The Ethernet Header contains 5 Fields:
@@ -38,8 +38,7 @@ IF the PAYLOAD is LESS than 46 BYTES then PADDING BYTES are added (padding bytes
 
 When a PC wants to send a packet to a destination, with a known IP address but an unknown MAC address, it first needs to send an ARP Request to learn that destination's MAC address.
 
-![image](https://github.com/psaumur/CCNA/assets/106411237/e2d0e5d2-7c98-4671-b356-903132fd7525)
-
+![alt text](image-1.png)
 
 - ARP stands for 'Address Resolution Protocol'.
 - It is used to discover the Layer 2 address (MAC address) of a known Layer 3 address (IP address)
@@ -64,8 +63,7 @@ An ARP REPLY frame has:
 
 ARP REPLY is a known UNICAST frame = Sent only to the host that sent the ARP REQUEST.
 
-![image](https://github.com/psaumur/CCNA/assets/106411237/914cdf2a-c631-47e5-80f9-46e32ebed311)
-
+![alt text](image-2.png)
 
 ---
 
@@ -90,16 +88,16 @@ By Default, a CISCO IOS sends 5 ICMP requests/replies
 
 USEFUL CISCO IOS COMMANDS (from Privileged EXEC mode)
 
-PC1# show arp // shows hosts ARP table
+`PC1# show arp` // shows hosts ARP table
 
-![image](https://github.com/psaumur/CCNA/assets/106411237/da199d21-4f41-485e-8917-ca8e3d789617)
+![alt text](image-3.png)
 
 
 ---
 
-SW1#show mac address-table // show the switches MAC table
+`SW1#show mac address-table` // show the switches MAC table
 
-![image](https://github.com/psaumur/CCNA/assets/106411237/c1cd95dd-7742-4703-9487-946652c95485)
+![alt text](image-4.png)
 
 
 Will show:
@@ -110,14 +108,13 @@ Vlan --- MAC Address --- Type --- Ports(interfaces)
 
 ---
 
-![image](https://github.com/psaumur/CCNA/assets/106411237/657b054b-a90c-4e5f-8544-2a51082cb631)
+![alt text](image-5.png)
 
-
-SW1# clear mac address-table dynamic <optional MAC address>
+`SW1# clear mac address-table dynamic` <optional MAC address>
 
 // clears the entire switches MAC table.
-// IF the optional MAC address is used, it will clear the SPECFIC MAC address.
+// IF the optional MAC address is used, it will clear the **SPECIFIC MAC** address.
 
-SW1 #clear mac address-table dynamic interface <optional Interface>
+`SW1#clear mac address-table dynamic interface` <optional Interface>
 
-// clears the MAC table entry of the Switch by it's **INTERFACE n**ame.
+// clears the MAC table entry of the Switch by it's **INTERFACE** name.
