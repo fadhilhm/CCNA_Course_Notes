@@ -6,7 +6,7 @@ An ETHERNET FRAME looks like:
 
 Ethernet Header --- DATA (Packet) --- Ethernet Trailer
 
-![alt text](image.png)
+![alt text](/ITN/assets/ethernet_frame.png)
 
 
 The Ethernet Header contains 5 Fields:
@@ -38,7 +38,7 @@ IF the PAYLOAD is LESS than 46 BYTES then PADDING BYTES are added (padding bytes
 
 When a PC wants to send a packet to a destination, with a known IP address but an unknown MAC address, it first needs to send an ARP Request to learn that destination's MAC address.
 
-![alt text](image-1.png)
+![alt text](/ITN/assets/arp_request.png)
 
 - ARP stands for 'Address Resolution Protocol'.
 - It is used to discover the Layer 2 address (MAC address) of a known Layer 3 address (IP address)
@@ -63,7 +63,7 @@ An ARP REPLY frame has:
 
 ARP REPLY is a known UNICAST frame = Sent only to the host that sent the ARP REQUEST.
 
-![alt text](image-2.png)
+![alt text](/ITN/assets/arp_reply.png)
 
 ---
 
@@ -90,14 +90,14 @@ USEFUL CISCO IOS COMMANDS (from Privileged EXEC mode)
 
 `PC1# show arp` // shows hosts ARP table
 
-![alt text](image-3.png)
+![alt text](/ITN/assets/arp_table.png)
 
 
 ---
 
 `SW1#show mac address-table` // show the switches MAC table
 
-![alt text](image-4.png)
+![alt text](/ITN/assets/cisco_mac_address_table.png)
 
 
 Will show:
@@ -108,7 +108,7 @@ Vlan --- MAC Address --- Type --- Ports(interfaces)
 
 ---
 
-![alt text](image-5.png)
+![alt text](/ITN/assets/cisco_clear_mac_table.png)
 
 `SW1# clear mac address-table dynamic` <optional MAC address>
 
