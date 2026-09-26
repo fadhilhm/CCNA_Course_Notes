@@ -1,3 +1,5 @@
+[Return to README](../README.md)
+
 # 4. INTRO TO THE CLI
 
 ### What is a CLI?

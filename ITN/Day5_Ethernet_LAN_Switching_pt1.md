@@ -1,3 +1,5 @@
+[Return to README](../README.md)
+
 # 5. ETHERNET LAN SWITCHING : PART 1
 
 ![image](assets/switch_in_LAN.png)

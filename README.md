@@ -23,3 +23,5 @@ For local conversion of these .md format files, to other friendly formats, use [
 - Day 2. [Interfaces and Cables](ITN/Day2_Interfaces_and_Cables.md)
 - Day 3. [OSI Model & TCP/IP](ITN/Day3_OSI_Model_&_TCPIP.md)
 - Day 4. [Intro to CLI](ITN/Day4_Intro_to_CLI.md)
+- Day 5. [Ethernet LAN Switching Part 1](ITN/Day5_Ethernet_LAN_Switching_pt1.md)
+- Day 6. [Ethernet LAN Switching Part 2](ITN/Day6_Ethernet_LAN_Switching_pt2.md)
