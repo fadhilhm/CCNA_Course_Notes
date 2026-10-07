@@ -39,7 +39,7 @@ For local conversion of these .md format files, to other friendly formats, I rec
 - [x] Day 15.  [Subnetting (VLSM) - Part 3](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Subnetting_VLSM_Part3.md)
 - [x] Day 16.  [VLANS - Part 1](https://github.com/psaumur/CCNA/blob/main/Course_Notes/VLAN_Part1.md)
 - [x] Day 17.  [VLANS - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/VLAN_Part2.md)
-- [ ] Day 18.  [VLANS - Part 3](https://github.com/psaumur/CCNA/blob/main/Course_Notes/VLAN_Part3.md)
+- [x] Day 18.  [VLANS - Part 3](https://github.com/psaumur/CCNA/blob/main/Course_Notes/VLAN_Part3.md)
 - [ ] Day 19.  [DTP / VTP](https://github.com/psaumur/CCNA/blob/main/Course_Notes/DTP_VTP.md)
 - [ ] Day 20.  [Spanning Tree Protocol - Part 1](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Spanning_Tree_Protocol_Part1.md)
 - [ ] Day 21.  [Spanning Tree Protocol - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Spanning_Tree_Protocol_Part2.md)
