@@ -42,7 +42,7 @@ For local conversion of these .md format files, to other friendly formats, I rec
 - [x] Day 18.  [VLANS - Part 3](https://github.com/psaumur/CCNA/blob/main/Course_Notes/VLAN_Part3.md)
 - [x] Day 19.  [DTP / VTP](https://github.com/psaumur/CCNA/blob/main/Course_Notes/DTP_VTP.md)
 - [x] Day 20.  [Spanning Tree Protocol - Part 1](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Spanning_Tree_Protocol_Part1.md)
-- [ ] Day 21.  [Spanning Tree Protocol - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Spanning_Tree_Protocol_Part2.md)
+- [x] Day 21.  [Spanning Tree Protocol - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Spanning_Tree_Protocol_Part2.md)
 - [ ] Day 22.  [Rapid Spanning Tree Protocol](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Rapid_Spanning_Tree_Protocol.md)
 - [ ] Day 23.  [Etherchannel](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Etherchannel.md)
 - [ ] Day 24.  [Dynamic Routing](https://github.com/psaumur/CCNA/blob/main/Course_Notes/DynamicRouting.md)
