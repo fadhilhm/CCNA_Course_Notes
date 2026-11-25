@@ -69,7 +69,7 @@ For local conversion of these .md format files, to other friendly formats, I rec
 - [ ] Day 45.  [NAT (Dynamic) - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/NAT_Dynamic_Part2.md)
 - [ ] Day 46.  [QoS (Voice VLAN) - Part 1](https://github.com/psaumur/CCNA/blob/main/Course_Notes/QoS_VoiceLan.md)
 - [ ] Day 47.  [QoS (Quality of Service) - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/QoS_Quality_of_Service.md)
-- [ ] Day 48.  [Security Fundamentals](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Security_Fundamentals.md)
+- [x] Day 48.  [Security Fundamentals](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Security_Fundamentals.md)
 - [ ] Day 49.  [Port Security](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Port_Security.md)
 - [ ] Day 50.  [DHCP Snooping](https://github.com/psaumur/CCNA/blob/main/Course_Notes/DHCP_Snooping.md)
 - [ ] Day 51.  [Dynamic Arp Inspection](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Dynamic_Arp_Inspection.md)
